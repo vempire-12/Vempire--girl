@@ -1,2 +1,2 @@
 # Vempire--girl
-Vempire-sessiin-genrater
+Vempire-session-genrater
