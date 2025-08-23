@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 
                     const successMsg = {
                         text:
-                            `🚀 *ARSLAN-MD Session Created!*\n\n` +
+                            `🚀 *Vempire-Girl Session Created!*\n\n` +
                             `▸ *Never share* your session ID\n` +
                             `▸ Join our WhatsApp Channel\n` +
                             `▸ Report bugs on GitHub\n\n` +
